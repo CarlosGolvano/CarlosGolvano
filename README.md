@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=1500&pause=20&color=5CA8C5&background=FF411900&center=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Carlos+Golvano;PhD+Student%7CSoftware+Engineer" alt="Typing SVG" /></a>
+<br/>
 
-<!--
-**CarlosGolvano/CarlosGolvano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/carlos-golvano-d%C3%ADaz/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:c.golvano.diaz@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
-Here are some ideas to get you started:
+<br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  💻 Currently working on the [Real Academia Española](https://www.rae.es/) on the [Lengua Española e Inteligencia Artificial](https://www.rae.es/leia-lengua-espanola-e-inteligencia-artificial) project.
+
+  📖 Pursuing PhD in Artificial Inteligence on the [Ontology Engineering Group](https://oeg.fi.upm.es/), [UPM](http://www.dia.fi.upm.es/doctoradoia/). 
+
+  🎓 Conducting research on **Large Language Models**, **Knowledge Injection on Language Models** and **Knowledge Retrieval from Knowledge Graphs**.
+
+<br/> 
+
+📈 My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosGolvano&theme=apprentice) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosGolvano&theme=apprentice) 
