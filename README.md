@@ -15,9 +15,9 @@
 
   💻 Currently working on the [Real Academia Española](https://www.rae.es/) on the [Lengua Española e Inteligencia Artificial](https://www.rae.es/leia-lengua-espanola-e-inteligencia-artificial) project.
 
-  📖 Pursuing PhD in Artificial Inteligence on the [Ontology Engineering Group](https://oeg.fi.upm.es/), [UPM](http://www.dia.fi.upm.es/doctoradoia/). 
+  📖 Pursuing PhD in Artificial intelligence on the [Ontology Engineering Group](https://oeg.fi.upm.es/), [UPM](http://www.dia.fi.upm.es/doctoradoia/). 
 
-  🎓 Conducting research on **Large Language Models**, **Knowledge Injection on Language Models** and **Knowledge Retrieval from Knowledge Graphs**.
+  🎓 Researching on **Large Language Models**, **Knowledge Injection on Language Models** and **Knowledge Retrieval from Knowledge Graphs**.
 
 <br/> 
 
