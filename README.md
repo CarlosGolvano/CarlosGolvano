@@ -21,7 +21,11 @@
 
 <br/> 
 
-📈 My Github Stats
-
+<details>
+<summary>📈 My Github Stats</summary>
+<br>
+    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosGolvano&theme=apprentice) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosGolvano&theme=apprentice) 
+
+</details>
