@@ -1,5 +1,7 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=1500&pause=20&color=5CA8C5&background=FF411900&center=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Carlos+Golvano;PhD+Student%7CSoftware+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=1500&pause=100&color=5CA8C5&background=FF411900&center=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Carlos+Golvano;Researcher%7CPhD+Student%7CSoftware+Engineer" alt="Typing SVG" />
+</a>
 <br/>
 
 <a href="https://www.linkedin.com/in/carlos-golvano-d%C3%ADaz/">
